@@ -1,4 +1,4 @@
-# Move-It-Simulator (Connect 2022 Challenge)
+# Move-It-Simulator (Connect 2022 Challenge) 
 <img src="Images/cover.png" />
 <p align="center"><a href="https://www.hackerearth.com/challenges/hackathon/connect-2022-challenge">https://www.hackerearth.com/challenges/hackathon/connect-2022-challenge</a></p>
 
